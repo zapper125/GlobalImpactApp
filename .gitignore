@@ -1,0 +1,4 @@
+Swift .gitignore
+
+*.xcuserstate
+.DS_Store
